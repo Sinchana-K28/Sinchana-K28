@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sinchu — Aspiring Software Dev (InfoSci)
 
-<!--
-**Sinchana-K28/Sinchana-K28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focus: Web Dev · AI/ML · Data Analytics · Impact Projects  
+📧 sinchu@111 · [LinkedIn](https://www.linkedin.com/in/sin)
 
-Here are some ideas to get you started:
+### 🧰 Tech Snapshot
+[![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+[![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)]
+[![PowerBI](https://img.shields.io/badge/PowerBI-65%25-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)]
+[![Git](https://img.shields.io/badge/Git-80%25-F05032?style=for-the-badge&logo=git&logoColor=white)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Insert the Skill Bars SVG from block (1) here -->
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- (full SVG from block 1) ... paste exactly as above -->
+</svg>
