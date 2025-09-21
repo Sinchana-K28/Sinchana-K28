@@ -20,16 +20,15 @@
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
 
-  <!-- Data Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50" alt="Tableau" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50" alt="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="Excel" />
+  <!-- Data Tools (Custom Logos since not in Devicon) -->
+  <img src="https://img.icons8.com/color/452/power-bi.png" height="50" alt="Power BI" />
+  <img src="https://img.icons8.com/color/344/tableau-software.png" height="50" alt="Tableau" />
+  <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
 
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="AWS" />
+  <!-- Cloud (Custom Logo since AWS not in Devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" />
   
 </p>
-
 
 <!-- Projects Section -->
 ## 🚀 Projects  
