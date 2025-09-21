@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<h1 align="center">👋 Hi, I'm Sinchu</h1>
+<h1 align="center">👋 Hi, I'm Sinchana K </h1>
 <h3 align="center">Information Science & Engineering Student</h3> 
 <h4>🎯 Focus: Web Dev · AI/ML · Data Analytics · Impact Projects </h4>
 
